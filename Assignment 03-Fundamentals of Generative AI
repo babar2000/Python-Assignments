@@ -1,0 +1,32 @@
+Q1:
+
+What are microservices, and how can AI-based microservices be developed?
+
+Answer:
+
+Microservices are a software development technique where a large application is divided into smaller, independent services that can be developed, deployed, and scaled individually. Each microservice focuses on a specific business function and communicates with other services through APIs.
+
+AI-based microservices can be developed by:
+
+Determine the specific AI tasks (e.g. recommendation or prediction) that will be handled by microservices.
+Develop or select AI models suitable for these tasks using machine learning frameworks (e.g. PyTorch).
+Wrap the AI models into microservices using framework like FastAPI.
+Expose the model's functionality via RESTful APIs for communication with other services.
+Deploy these microservices using containerization tools like Docker and orchestration platforms like Kubernetes.
+Implement monitoring to track performance and auto-scaling to handle varying loads efficiently.
+
+Q2:
+
+Local AI Microservices Development Stack?
+
+Answer:
+
+Means we have developed different types of Microservices and every other has its own use and function and all these microservices are developed on local system through Docker, Dev container, fastAPI, SQLModel, Kafka, Kong and its cloud native deployment on azure etc.
+
+Q3:
+
+The Rise of Agentic AI: A New Era of Intelligent Collaboration:
+
+Answer:
+
+Automated and intelligent agents or applications are made by humans which can done multiple tasks for humans like switch off/on lights, cooking, etc. these agents can be one and multiples and through machine learning and natural language processing will be interact with each other also with humans and will enhance productivity and innovation. Agents can work independently to achieve their specific tasks and can work on colloboration environment by sharing information and their specific knowledge. Agents will learn and adapt new techniqes and information. they are scalable which means if there is load they can increase more agents to handle work load pressure.
