@@ -1,0 +1,36 @@
+Q:
+
+What are Compound AI Systems?
+
+Answer:
+
+Compound AI Systems are integrated systems that combine multiple AI models or components to perform complex tasks. These systems often involve different types of AI (e.g., natural language processing, computer vision) working together to achieve more sophisticated outcomes than a single AI model could accomplish on its own.
+
+Q:
+
+What are AI Agents?
+
+Answer:
+
+AI Agents are autonomous software entities that use artificial intelligence to perform tasks or make decisions on behalf of users. They can perceive their environment, process information, and take actions to achieve specific goals, often interacting with other agents or systems.
+
+Q:
+
+What is the relation between Compound AI Systems and AI Agents?
+
+Answer:
+
+AI Agents can be components within Compound AI Systems. In a Compound AI System, multiple AI Agents may work together, each handling specific tasks or processes, to achieve more complex and coordinated outcomes.
+
+Q:
+
+What is the difference between Fine Tuning and RAG?
+
+Answer:
+
+Fine-Tuning is the process of taking a pre-trained AI model and adjusting its parameters by training it on a specific dataset to specialize in a particular task.
+
+RAG (Retrieval-Augmented Generation) combines a generative AI model with a retrieval mechanism. It retrieves relevant information from a database or documents during the generation process, allowing the model to provide more accurate and up-to-date responses without requiring extensive retraining.
+
+In short, Fine-Tuning adapts a model to a specific task, while RAG enhances a model's responses by integrating real-time information retrieval.
+
